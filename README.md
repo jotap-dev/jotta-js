@@ -1,6 +1,6 @@
 ## What's up guys?!, i'm João Pedro, but you can call me Jotta! 😉
   
-- Fullstack JS Developer💻
+- Native Android Developer💻
 - Team work is my love 🤝🏻
 - Learn or teach, i just wanna be part of this process.👨🏻‍🎓
 - Communication is my favorite and best skill, i think that is an amazing tool to make the future.📣
